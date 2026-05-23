@@ -1,0 +1,95 @@
+aid: mobileye
+name: Mobileye
+description: >-
+  Mobileye is an Israel-headquartered ADAS and autonomous-driving technology
+  company, majority-owned by Intel and publicly traded on NASDAQ as MBLY. Its
+  flagship platform is the EyeQ family of purpose-built automotive
+  systems-on-chip (EyeQ4, EyeQ5, EyeQ6L, EyeQ6H, EyeQ Ultra), shipped in over
+  175 million vehicles worldwide through partnerships with most major OEMs.
+  Mobileye's solution portfolio spans entry-level ADAS, Mobileye SuperVision
+  (eyes-on, hands-off highway and urban driving), Mobileye Chauffeur (eyes-off
+  conditional autonomy), and Mobileye Drive (Level 4 full autonomy in robotaxi
+  and goods-delivery applications). The company pioneered Responsibility-
+  Sensitive Safety (RSS), a mathematical framework for AV decision safety
+  contributed to IEEE standards work, and operates Road Experience Management
+  (REM), a crowdsourced HD-mapping system that harvests anonymized road data
+  from millions of consumer vehicles to build and update the Mobileye Roadbook.
+  Mobileye does not publish a traditional public developer API; OEM and
+  integration relationships are private B2B engagements.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+access: 3rd-Party
+created: '2026-05-23'
+modified: '2026-05-23'
+position: B2B
+tags:
+  - ADAS
+  - Autonomous Vehicles
+  - Computer Vision
+  - EyeQ
+  - SuperVision
+  - Chauffeur
+  - REM
+  - RSS
+  - Intel
+  - NASDAQ
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/mobileye/refs/heads/main/apis.yml
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://www.mobileye.com
+  - type: AboutUs
+    url: https://www.mobileye.com/about/
+  - type: Newsroom
+    url: https://www.mobileye.com/news/
+  - type: Blog
+    url: https://www.mobileye.com/blog/
+  - type: Technology
+    url: https://www.mobileye.com/technology/
+  - type: Solutions
+    url: https://www.mobileye.com/solutions/
+  - type: EyeQ
+    url: https://www.mobileye.com/technology/eyeq-chip/
+  - type: SuperVision
+    url: https://www.mobileye.com/solutions/supervision/
+  - type: Chauffeur
+    url: https://www.mobileye.com/solutions/chauffeur/
+  - type: Drive
+    url: https://www.mobileye.com/solutions/mobileye-drive/
+  - type: REM
+    url: https://www.mobileye.com/technology/rem/
+  - type: RSS
+    url: https://www.mobileye.com/technology/responsibility-sensitive-safety/
+  - type: Safety
+    url: https://www.mobileye.com/safety/
+  - type: Aftermarket
+    url: https://www.mobileye.com/aftermarket/
+  - type: Careers
+    url: https://careers.mobileye.com
+  - type: InvestorRelations
+    url: https://ir.mobileye.com
+  - type: SECFilings
+    url: https://ir.mobileye.com/financial-information/sec-filings
+  - type: Contact
+    url: https://www.mobileye.com/contact/
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/mobileye
+  - type: Twitter
+    url: https://twitter.com/Mobileye
+  - type: YouTube
+    url: https://www.youtube.com/@mobileye
+integrations:
+  - name: Intel
+  - name: Volkswagen Group
+  - name: BMW
+  - name: Ford
+  - name: Audi
+  - name: Nissan
+  - name: Geely
+  - name: Zeekr
+  - name: Polestar
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
